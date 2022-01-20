@@ -1,0 +1,15 @@
+D:\training\dotnet\Exception Handling\bin\Debug\net6.0\Exception Handling.exe
+D:\training\dotnet\Exception Handling\bin\Debug\net6.0\Exception Handling.deps.json
+D:\training\dotnet\Exception Handling\bin\Debug\net6.0\Exception Handling.runtimeconfig.json
+D:\training\dotnet\Exception Handling\bin\Debug\net6.0\Exception Handling.dll
+D:\training\dotnet\Exception Handling\bin\Debug\net6.0\ref\Exception Handling.dll
+D:\training\dotnet\Exception Handling\bin\Debug\net6.0\Exception Handling.pdb
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.csproj.AssemblyReference.cache
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.AssemblyInfoInputs.cache
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.AssemblyInfo.cs
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.csproj.CoreCompileInputs.cache
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.dll
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\ref\Exception Handling.dll
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.pdb
+D:\training\dotnet\Exception Handling\obj\Debug\net6.0\Exception Handling.genruntimeconfig.cache

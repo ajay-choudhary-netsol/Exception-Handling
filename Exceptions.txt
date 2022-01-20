@@ -1,0 +1,2 @@
+Could not find a part of the path 'D:\training\dotnet\ExceptioHandling\Data.txt'.File not FoundFile not FoundFile not Found 
+File not Found..
